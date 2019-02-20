@@ -39,6 +39,7 @@ void loop()
 {
   lcd.setCursor(0,0);
   lcd.print("Fan   Light  TV");
+  serialEvent();
   if(temp==1)
   {
     check();
