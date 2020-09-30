@@ -1,6 +1,6 @@
 # GSM-based-Home-Automation
-This can hep you to access your home when you are out . You can switch on and off the home appliances from anywhere.
-tory
+This can hep you to access your home when you are out . You can switch on and off the home appliances from anywhere without any wifi or network connection.
+
 
 Mobile phone is a revolutionary invention of the century. It was primarily designed for making and receiving calls & text messages, but it has become the whole world after the Smart phone comes into the picture. In this project we are building a home automation system, where one can control the home appliances, using the simple GSM based phone, just by sending SMS through his phone. In this project, no Smart phone is needed, just the old GSM phone will work to switch ON and OFF any
 Working Explanation
